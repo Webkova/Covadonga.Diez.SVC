@@ -10,5 +10,9 @@ public class C31 {
         return "C31: m2";
     }
     
+    public String mB() {
+        return "C31: mB";
+    }
+    
 
 }
