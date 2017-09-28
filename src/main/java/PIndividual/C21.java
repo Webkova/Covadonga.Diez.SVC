@@ -10,5 +10,9 @@ public class C21 {
         return "C21: m2";
     }
     
+    public String m3() {
+        return "C21: m3";
+    }
+    
 
 }
